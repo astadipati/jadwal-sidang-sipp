@@ -1,4 +1,4 @@
 <?php
-	mysql_connect('localhost','root','Kul0nuwun'); /** koneksi**/
+	mysql_connect('localhost','root','pass'); /** koneksi**/
 	
-	mysql_select_db('sipp05092016'); /** db **/
+	mysql_select_db('db'); /** db **/
